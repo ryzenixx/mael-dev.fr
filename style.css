@@ -387,3 +387,8 @@ body {
 .dark-mode .tech-tag {
     background: rgba(249, 108, 108, 0.2);
 }
+
+::selection {
+    background-color: #f96c6c;
+    color: white;
+}
